@@ -1,4 +1,4 @@
-# abc-web
+# PoolDAO
 
 ## Project setup
 ```
