@@ -11,6 +11,7 @@
         .title 以太坊2.0的去中心化矿池协议
         .desc 任何⼈随时随地都能参与以太坊 POS 获取中⻓期稳定收益
         a.whitepaper(href="PoolDAO白皮书v0.3.pdf") PoolDAO 协议白皮书
+        a.whitepaper(href="https://dapp.pooldao.org") 访问 Dapp
     .page2.cont
       .page2-container.container.padding-80
         .title 服务对象
@@ -203,7 +204,7 @@ export default {
     }
   }
   .index {
-    height: 640px;
+    height: 700px;
     background-image: url('../assets/pooldao/background.png');
     .index-container {
       padding: 136px 0;
