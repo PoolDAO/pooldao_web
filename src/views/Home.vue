@@ -57,8 +57,6 @@
       .footer-container.container
         p All rights reserved © 2020 PoolDAO
         .contact-area
-          .wechat
-            img.qrcode(:src="wechat")
           a(href="https://github.com/PoolDAO", target="_blank" title="pooldao") 
         .logo.no-repeat-contain
 </template>
